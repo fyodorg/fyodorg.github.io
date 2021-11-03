@@ -52,7 +52,7 @@
 8. Заключительные положения
 8.1. Пользователь может получить любые разъяснения по интересующим вопросам, касающимся обработки его персональных данных, обратившись к Оператору с помощью электронной почты San.Maclaren@gmail.com.
 8.2. В данном документе будут отражены любые изменения политики обработки персональных данных Оператором. Политика действует бессрочно до замены ее новой версией.
-8.3. Актуальная версия Политики в свободном доступе расположена в сети Интернет по адресу https?//tools.seo-zona.ru/privacy/.
+8.3. Актуальная версия Политики в свободном доступе расположена в сети Интернет по адресу https://fyodorg.github.io/privacy.txt.
 
 
 
@@ -113,7 +113,7 @@ The security of personal data processed by the Operator is ensured through the i
 8. Final provisions
 8.1. The user can receive any clarifications on issues of interest regarding the processing of his personal data by contacting the Operator via e-mail San.Maclaren@gmail.com.
 8.2. This document will reflect any changes in the personal data processing policy by the Operator. The policy is valid indefinitely until it is replaced by a new version.
-8.3. The current version of the Policy is freely available on the Internet at https? // tools.seo-zona.ru/privacy/. 
+8.3. The current version of the Policy is freely available on the Internet at https://fyodorg.github.io/privacy.txt. 
 
 IT
 Politica sul trattamento dei dati personali
@@ -169,7 +169,7 @@ La sicurezza dei dati personali trattati dal Gestore è garantita attraverso l'a
 8. Disposizioni finali
 8.1. L'utente può ricevere eventuali chiarimenti su questioni di interesse in merito al trattamento dei suoi dati personali contattando il Gestore tramite e-mail San.Maclaren@gmail.com.
 8.2. Questo documento rifletterà eventuali modifiche alla politica di trattamento dei dati personali da parte dell'Operatore. La polizza è valida a tempo indeterminato fino a quando non viene sostituita da una nuova versione.
-8.3. La versione corrente della Politica è disponibile gratuitamente su Internet all'indirizzo https? // tools.seo-zona.ru/privacy/. 
+8.3. La versione corrente della Politica è disponibile gratuitamente su Internet all'indirizzo https://fyodorg.github.io/privacy.txt. 
 
 FR
 Politique de traitement des données personnelles
@@ -225,7 +225,7 @@ La sécurité des données personnelles traitées par l'Opérateur est assurée 
 8. Dispositions finales
 8.1. L'utilisateur peut recevoir des éclaircissements sur les questions d'intérêt concernant le traitement de ses données personnelles en contactant l'opérateur par e-mail San.Maclaren@gmail.com.
 8.2. Ce document reflétera toute modification de la politique de traitement des données personnelles par l'Opérateur. La politique est valable indéfiniment jusqu'à ce qu'elle soit remplacée par une nouvelle version.
-8.3. La version actuelle de la politique est disponible gratuitement sur Internet à l'adresse https? // tools.seo-zona.ru/privacy/.
+8.3. La version actuelle de la politique est disponible gratuitement sur Internet à l'adresse https://fyodorg.github.io/privacy.txt.
 
 GER
 Richtlinie zur Verarbeitung personenbezogener Daten
@@ -281,7 +281,7 @@ Die Sicherheit der vom Betreiber verarbeiteten personenbezogenen Daten wird durc
 8. Schlussbestimmungen
 8.1. Der Benutzer kann Erläuterungen zu Interessensfragen bezüglich der Verarbeitung seiner personenbezogenen Daten erhalten, indem er sich per E-Mail an den Betreiber an San.Maclaren@gmail.com wendet.
 8.2. Dieses Dokument spiegelt alle Änderungen der Richtlinie zur Verarbeitung personenbezogener Daten durch den Betreiber wider. Die Richtlinie ist unbegrenzt gültig, bis sie durch eine neue Version ersetzt wird.
-8.3. Die aktuelle Version der Richtlinie ist im Internet unter https? // tools.seo-zona.ru/privacy/ frei verfügbar. 
+8.3. Die aktuelle Version der Richtlinie ist im Internet unter https://fyodorg.github.io/privacy.txt. 
 
 ESP
 Política de tratamiento de datos personales
@@ -337,7 +337,7 @@ La seguridad de los datos personales tratados por el Operador está garantizada 
 8. Disposiciones finales
 8.1. El usuario puede recibir cualquier aclaración sobre cuestiones de interés relativas al tratamiento de sus datos personales poniéndose en contacto con el Operador a través del correo electrónico San.Maclaren@gmail.com.
 8.2. Este documento reflejará cualquier cambio en la política de procesamiento de datos personales por parte del Operador. La política es válida indefinidamente hasta que sea reemplazada por una nueva versión.
-8.3. La versión actual de la Política está disponible gratuitamente en Internet en https? // tools.seo-zona.ru/privacy/. 
+8.3. La versión actual de la Política está disponible gratuitamente en Internet en https://fyodorg.github.io/privacy.txt. 
 
 POR
 Política de processamento de dados pessoais
@@ -393,4 +393,4 @@ A segurança dos dados pessoais tratados pelo Operador é garantida através da 
 8. Disposições finais
 8,1 O utilizador pode receber quaisquer esclarecimentos sobre assuntos de interesse relativos ao tratamento dos seus dados pessoais, contactando o Operador através do e-mail San.Maclaren@gmail.com.
 8,2. Este documento refletirá quaisquer alterações na política de processamento de dados pessoais por parte da Operadora. A política é válida por tempo indeterminado até que seja substituída por uma nova versão.
-8,3. A versão atual da Política está disponível gratuitamente na Internet em https? // tools.seo-zona.ru/privacy/. 
+8,3. A versão atual da Política está disponível gratuitamente na Internet em https://fyodorg.github.io/privacy.txt. 
