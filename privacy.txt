@@ -1,0 +1,396 @@
+
+Политика в отношении обработки персональных данных
+
+
+1. Общие положения
+Настоящая политика обработки персональных данных составлена в соответствии с требованиями Федерального закона от 27.07.2006. №152-ФЗ «О персональных данных» и определяет порядок обработки персональных данных и меры по обеспечению безопасности персональных данных, предпринимаемые компанией Word Games (Ворд Геймс) (далее – Оператор).
+1.1. Оператор ставит своей важнейшей целью и условием осуществления своей деятельности соблюдение прав и свобод человека и гражданина при обработке его персональных данных, в том числе защиты прав на неприкосновенность частной жизни, личную и семейную тайну.
+1.2. Настоящая политика Оператора в отношении обработки персональных данных (далее – Политика) применяется ко всей информации, которую Оператор может получить о пользователях игр.
+ 
+2. Основные понятия, используемые в Политике
+2.1. Автоматизированная обработка персональных данных – обработка персональных данных с помощью средств вычислительной техники;
+2.2. Блокирование персональных данных – временное прекращение обработки персональных данных (за исключением случаев, если обработка необходима для уточнения персональных данных);
+2.3. Веб-сайт – совокупность графических и информационных материалов, а также программ для ЭВМ и баз данных, обеспечивающих их доступность в сети интернет
+2.4. Информационная система персональных данных — совокупность содержащихся в базах данных персональных данных, и обеспечивающих их обработку информационных технологий и технических средств;
+2.5. Обезличивание персональных данных — действия, в результате которых невозможно определить без использования дополнительной информации принадлежность персональных данных конкретному Пользователю или иному субъекту персональных данных;
+2.6. Обработка персональных данных – любое действие (операция) или совокупность действий (операций), совершаемых с использованием средств автоматизации или без использования таких средств с персональными данными, включая сбор, запись, систематизацию, накопление, хранение, уточнение (обновление, изменение), извлечение, использование, передачу (распространение, предоставление, доступ), обезличивание, блокирование, удаление, уничтожение персональных данных;
+2.7. Оператор – государственный орган, муниципальный орган, юридическое или физическое лицо, самостоятельно или совместно с другими лицами организующие и (или) осуществляющие обработку персональных данных, а также определяющие цели обработки персональных данных, состав персональных данных, подлежащих обработке, действия (операции), совершаемые с персональными данными;
+2.8. Персональные данные – любая информация, относящаяся прямо или косвенно к определенному или определяемому Пользователю игр.
+2.9. Пользователь – любой человек, использующий игры.
+2.10. Предоставление персональных данных – действия, направленные на раскрытие персональных данных определенному лицу или определенному кругу лиц;
+2.11. Распространение персональных данных – любые действия, направленные на раскрытие персональных данных неопределенному кругу лиц (передача персональных данных) или на ознакомление с персональными данными неограниченного круга лиц, в том числе обнародование персональных данных в средствах массовой информации, размещение в информационно-телекоммуникационных сетях или предоставление доступа к персональным данным каким-либо иным способом;
+2.12. Трансграничная передача персональных данных – передача персональных данных на территорию иностранного государства органу власти иностранного государства, иностранному физическому или иностранному юридическому лицу;
+2.13. Уничтожение персональных данных – любые действия, в результате которых персональные данные уничтожаются безвозвратно с невозможностью дальнейшего восстановления содержания персональных данных в информационной системе персональных данных и (или) уничтожаются материальные носители персональных данных.
+ 
+3. Оператор может обрабатывать следующие персональные данные Пользователя
+3.1. Фамилия, имя, отчество;
+3.2. Номер телефона;
+3.3. Адрес электронной почты;
+3.4. Также на сайте происходит сбор и обработка обезличенных данных о посетителях (в т.ч. файлов «cookie») с помощью сервисов интернет-статистики (Яндекс Метрика, Google Аналитика и других).
+3.5. Вышеперечисленные данные далее по тексту Политики объединены общим понятием Персональные данные.
+ 
+4. Цели обработки персональных данных
+4.1. Цель обработки персональных данных Пользователя — предоставление доступа Пользователю к сервисам, информации и/или материалам, содержащимся на веб-сайте.
+4.2. Также Оператор имеет право направлять Пользователю уведомления о новых продуктах и услугах, специальных предложениях и различных событиях. Пользователь всегда может отказаться от получения информационных сообщений, направив Оператору письмо на адрес электронной почты San.Maclaren@gmail.com с пометкой «Отказ от уведомлений о новых продуктах и услугах и специальных предложениях».
+4.3. Обезличенные данные Пользователей, собираемые с помощью сервисов интернет-статистики, служат для сбора информации о действиях Пользователей на сайте, улучшения качества сайта и его содержания.
+ 
+5. Правовые основания обработки персональных данных
+5.1. Оператор обрабатывает персональные данные Пользователя только в случае их заполнения и/или отправки Пользователем самостоятельно. Отправляя свои персональные данные Оператору, Пользователь выражает свое согласие с данной Политикой.
+5.2. Оператор обрабатывает обезличенные данные о Пользователе в случае, если это разрешено в настройках браузера Пользователя (включено сохранение файлов «cookie» и использование технологии JavaScript).
+ 
+6. Порядок сбора, хранения, передачи и других видов обработки персональных данных
+Безопасность персональных данных, которые обрабатываются Оператором, обеспечивается путем реализации правовых, организационных и технических мер, необходимых для выполнения в полном объеме требований действующего законодательства в области защиты персональных данных.
+6.1. Оператор обеспечивает сохранность персональных данных и принимает все возможные меры, исключающие доступ к персональным данным неуполномоченных лиц.
+6.2. Персональные данные Пользователя никогда, ни при каких условиях не будут переданы третьим лицам, за исключением случаев, связанных с исполнением действующего законодательства.
+6.3. В случае выявления неточностей в персональных данных, Пользователь может актуализировать их самостоятельно, путем направления Оператору уведомление на адрес электронной почты Оператора San.Maclaren@gmail.com с пометкой «Актуализация персональных данных».
+6.4. Срок обработки персональных данных является неограниченным. Пользователь может в любой момент отозвать свое согласие на обработку персональных данных, направив Оператору уведомление посредством электронной почты на электронный адрес Оператора San.Maclaren@gmail.com с пометкой «Отзыв согласия на обработку персональных данных».
+ 
+7. Трансграничная передача персональных данных
+7.1. Оператор до начала осуществления трансграничной передачи персональных данных обязан убедиться в том, что иностранным государством, на территорию которого предполагается осуществлять передачу персональных данных, обеспечивается надежная защита прав субъектов персональных данных.
+7.2. Трансграничная передача персональных данных на территории иностранных государств, не отвечающих вышеуказанным требованиям, может осуществляться только в случае наличия согласия в письменной форме субъекта персональных данных на трансграничную передачу его персональных данных и/или исполнения договора, стороной которого является субъект персональных данных.
+ 
+8. Заключительные положения
+8.1. Пользователь может получить любые разъяснения по интересующим вопросам, касающимся обработки его персональных данных, обратившись к Оператору с помощью электронной почты San.Maclaren@gmail.com.
+8.2. В данном документе будут отражены любые изменения политики обработки персональных данных Оператором. Политика действует бессрочно до замены ее новой версией.
+8.3. Актуальная версия Политики в свободном доступе расположена в сети Интернет по адресу https?//tools.seo-zona.ru/privacy/.
+
+
+
+
+
+
+ENG
+Personal data processing policy
+
+
+1. General Provisions
+This personal data processing policy has been drawn up in accordance with the requirements of the Federal Law of July 27, 2006. No. 152-ФЗ "On Personal Data" and determines the procedure for processing personal data and measures to ensure the security of personal data taken by Word Games (Word Games) (hereinafter referred to as the Operator).
+1.1. The operator sets as its most important goal and condition for the implementation of its activities the observance of human and civil rights and freedoms when processing their personal data, including the protection of the rights to privacy, personal and family secrets.
+1.2. This Operator's policy regarding the processing of personal data (hereinafter referred to as the Policy) applies to all information that the Operator can obtain about game users.
+ 
+2. Basic concepts used in the Policy
+2.1. Automated processing of personal data - processing of personal data using computer technology;
+2.2. Blocking of personal data - a temporary suspension of the processing of personal data (unless the processing is necessary to clarify personal data);
+2.3. Website - a set of graphic and information materials, as well as computer programs and databases that ensure their availability on the Internet
+2.4. Personal data information system - a set of personal data contained in databases, and information technologies and technical means that ensure their processing;
+2.5. Depersonalization of personal data - actions as a result of which it is impossible to determine, without the use of additional information, the belonging of personal data to a specific User or other subject of personal data;
+2.6. Processing of personal data - any action (operation) or a set of actions (operations) performed using automation tools or without using such tools with personal data, including collection, recording, systematization, accumulation, storage, clarification (update, change), extraction, use, transfer (distribution, provision, access), depersonalization, blocking, deletion, destruction of personal data;
+2.7. Operator - a state body, municipal body, legal entity or individual, independently or jointly with other persons organizing and (or) carrying out the processing of personal data, as well as determining the purposes of processing personal data, the composition of personal data to be processed, actions (operations) performed with personal data;
+2.8. Personal data - any information relating directly or indirectly to a specific or identifiable User of the games.
+2.9. User is any person using games.
+2.10. Provision of personal data - actions aimed at disclosing personal data to a certain person or a certain circle of persons;
+2.11. Dissemination of personal data - any actions aimed at disclosing personal data to an indefinite circle of persons (transfer of personal data) or at acquaintance with the personal data of an unlimited number of persons, including the disclosure of personal data in the media, posting on information and telecommunication networks or providing access to personal data in any other way;
+2.12. Cross-border transfer of personal data - transfer of personal data to the territory of a foreign state to the authority of a foreign state, to a foreign individual or foreign legal entity;
+2.13. Destruction of personal data - any actions as a result of which personal data are destroyed irrevocably with the impossibility of further restoring the content of personal data in the personal data information system and (or) material carriers of personal data are destroyed.
+ 
+3. The operator can process the following personal data of the User
+3.1. Full Name;
+3.2. Phone number;
+3.3. E-mail address;
+3.4. Also, the site collects and processes anonymized data about visitors (including cookies) using Internet statistics services (Yandex Metrika, Google Analytics and others).
+3.5. The above data hereinafter in the text of the Policy are united by the general concept of Personal data.
+ 
+4. Purposes of processing personal data
+4.1. The purpose of processing the User's personal data is to provide the User with access to services, information and / or materials contained on the website.
+4.2. The Operator also has the right to send the User notifications about new products and services, special offers and various events. The user can always refuse to receive informational messages by sending a letter to the Operator at the email address San.Maclaren@gmail.com with the note “Refusal of notifications about new products and services and special offers”.
+4.3. Anonymized User data collected from using Internet statistics services, serve to collect information about the actions of Users on the site, improve the quality of the site and its content.
+ 
+5. Legal basis for the processing of personal data
+5.1. The Operator processes the User's personal data only if it is filled in and / or sent by the User independently. By sending his personal data to the Operator, the User agrees with this Policy.
+5.2. The Operator processes anonymized data about the User if it is allowed in the settings of the User's browser (the storage of cookies and the use of JavaScript technology are enabled).
+ 
+6. The procedure for collecting, storing, transferring and other types of processing of personal data
+The security of personal data processed by the Operator is ensured through the implementation of legal, organizational and technical measures necessary to fully comply with the requirements of the current legislation in the field of personal data protection.
+6.1. The operator ensures the safety of personal data and takes all possible measures to exclude access to personal data of unauthorized persons.
+6.2. The User's personal data will never, under any circumstances, be transferred to third parties, except in cases related to the implementation of the current legislation.
+6.3. In case of revealing inaccuracies in personal data, the User can update them independently by sending a notification to the Operator to the Operator's e-mail address San.Maclaren@gmail.com marked "Updating personal data".
+6.4. The period for processing personal data is unlimited. The user can at any time revoke his consent to the processing of personal data by sending a notification to the Operator by e-mail to the e-mail address of the Operator San.Maclaren@gmail.com marked “Withdrawal of consent to the processing of personal data”.
+ 
+7. Cross-border transfer of personal data
+7.1. Before starting the cross-border transfer of personal data, the operator must make sure that the foreign state, to whose territory it is supposed to transfer personal data, provides reliable protection of the rights of subjects of personal data.
+7.2. Cross-border transfer of personal data on the territory of foreign states that do not meet the above requirements can be carried out only if there is a written consent of the subject of personal data to the cross-border transfer of his personal data and / or the execution of an agreement to which the subject of personal data is a party.
+ 
+8. Final provisions
+8.1. The user can receive any clarifications on issues of interest regarding the processing of his personal data by contacting the Operator via e-mail San.Maclaren@gmail.com.
+8.2. This document will reflect any changes in the personal data processing policy by the Operator. The policy is valid indefinitely until it is replaced by a new version.
+8.3. The current version of the Policy is freely available on the Internet at https? // tools.seo-zona.ru/privacy/. 
+
+IT
+Politica sul trattamento dei dati personali
+
+
+1. Disposizioni generali
+Questa politica di trattamento dei dati personali è stata redatta in conformità con i requisiti della legge federale del 27 luglio 2006. No. 152-ФЗ "Sui dati personali" e determina la procedura per il trattamento dei dati personali e le misure per garantire la sicurezza dei dati personali adottati da Giochi di parole (Giochi di parole) (di seguito denominato Gestore).
+1.1. L'operatore pone come obiettivo e condizione più importante per l'attuazione delle proprie attività il rispetto dei diritti e delle libertà umani e civili nel trattamento dei propri dati personali, compresa la protezione dei diritti alla privacy, ai segreti personali e familiari.
+1.2. La politica dell'Operatore in merito al trattamento dei dati personali (di seguito denominata Politica) si applica a tutte le informazioni che l'Operatore può ottenere sugli utenti del gioco.
+ 
+2. Concetti di base utilizzati nella Politica
+2.1. Elaborazione automatizzata di dati personali - elaborazione di dati personali mediante tecnologia informatica;
+2.2. Blocco dei dati personali - cessazione temporanea del trattamento dei dati personali (salvo i casi in cui il trattamento è necessario per chiarire i dati personali);
+2.3. Sito Web: un insieme di materiali grafici e informativi, nonché programmi per computer e database che ne garantiscono la disponibilità su Internet
+2.4. Sistema di informazione dei dati personali - un insieme di dati personali contenuti in banche dati, tecnologie dell'informazione e mezzi tecnici che ne garantiscono l'elaborazione;
+2.5. Depersonalizzazione dei dati personali - azioni per le quali non è possibile determinare, senza l'utilizzo di ulteriori informazioni, l'appartenenza dei dati personali a un determinato Utente o ad altro soggetto interessato;
+2.6. Trattamento dei dati personali - qualsiasi azione (operazione) o un insieme di azioni (operazioni) eseguite utilizzando strumenti di automazione o senza utilizzare tali strumenti con dati personali, inclusi raccolta, registrazione, sistematizzazione, accumulazione, archiviazione, chiarimento (aggiornamento, modifica), estrazione , utilizzo, trasferimento (distribuzione, messa a disposizione, accesso), depersonalizzazione, blocco, cancellazione, distruzione dei dati personali;
+2.7. Operatore - un ente statale, municipale, persona giuridica o persona fisica, indipendentemente o congiuntamente ad altre persone che organizzano e (o) effettuano il trattamento dei dati personali, nonché determina le finalità del trattamento dei dati personali, la composizione dei dati personali per essere trattati, azioni (operazioni) compiute con dati personali;
+2.8. Dati personali - qualsiasi informazione relativa direttamente o indirettamente a un Utente specifico o identificabile dei giochi.
+2.9. L'utente è qualsiasi persona che utilizza i giochi.
+2.10. Fornitura di dati personali - azioni volte a divulgare dati personali a una determinata persona oa una determinata cerchia di persone;
+2.11. Diffusione di dati personali - qualsiasi azione volta a divulgare dati personali a una cerchia indefinita di persone (trasferimento di dati personali) o a conoscenza dei dati personali di un numero illimitato di persone, compresa la divulgazione di dati personali nei media, la pubblicazione su reti informatiche e di telecomunicazione o fornitura di accesso a dati personali in altro modo;
+2.12. Trasferimento transfrontaliero di dati personali - il trasferimento di dati personali nel territorio di uno stato straniero all'autorità di uno stato straniero, a una persona fisica o giuridica straniera;
+2.13. Distruzione dei dati personali - qualsiasi azione a seguito della quale i dati personali vengono distrutti irrevocabilmente con l'impossibilità di ripristinare ulteriormente il contenuto dei dati personali nel sistema informativo dei dati personali e (o) i supporti materiali dei dati personali vengono distrutti.
+ 
+3. L'operatore può trattare i seguenti dati personali dell'Utente
+3.1. Nome e cognome;
+3.2. Numero di telefono;
+3.3. Indirizzo email;
+3.4. Il sito raccoglie ed elabora anche dati anonimi sui visitatori (inclusi i cookie) utilizzando i servizi di statistica Internet (Yandex Metrika, Google Analytics e altri).
+3.5. I dati sopra riportati di seguito nel testo dell'Informativa sono accomunati dal concetto generale di Dati Personali.
+ 
+4. Finalità del trattamento dei dati personali
+4.1. La finalità del trattamento dei dati personali dell'Utente è quella di fornire all'Utente l'accesso a servizi, informazioni e/o materiali contenuti nel sito web.
+4.2. L'Operatore ha inoltre il diritto di inviare all'Utente notifiche su nuovi prodotti e servizi, offerte speciali ed eventi vari. L'utente può sempre rifiutarsi di ricevere messaggi informativi inviando all'Operatore una lettera all'indirizzo di posta elettronica San.Maclaren@gmail.com contrassegnata come "Rifiuto di notifiche su nuovi prodotti e servizi e offerte speciali".
+4.3. Dati utente anonimi raccolti dautilizzando i servizi di statistiche Internet, servono a raccogliere informazioni sulle azioni degli Utenti sul sito, migliorare la qualità del sito e dei suoi contenuti.
+ 
+5. Base giuridica per il trattamento dei dati personali
+5.1. Il Gestore tratta i dati personali dell'Utente solo se compilati e/o inviati dall'Utente in autonomia. Inviando i propri dati personali all'Operatore, l'Utente è d'accordo con questa Politica.
+5.2. Il Gestore elabora i dati anonimi sull'Utente se consentito nelle impostazioni del browser dell'Utente (la memorizzazione dei cookie e l'uso della tecnologia JavaScript sono abilitati).
+ 
+6. Modalità di raccolta, conservazione, trasferimento e altre tipologie di trattamento dei dati personali
+La sicurezza dei dati personali trattati dal Gestore è garantita attraverso l'attuazione di misure legali, organizzative e tecniche necessarie per ottemperare pienamente ai requisiti della normativa vigente in materia di protezione dei dati personali.
+6.1. L'operatore garantisce la sicurezza dei dati personali e adotta tutte le misure possibili per escludere l'accesso ai dati personali di persone non autorizzate.
+6.2. I dati personali dell'Utente non saranno mai, in nessun caso, ceduti a terzi, salvo nei casi connessi all'attuazione della normativa vigente.
+6.3. In caso di rilevazione di inesattezze nei dati personali, l'Utente può aggiornarli autonomamente inviando una notifica all'Operatore all'indirizzo di posta elettronica dell'Operatore San.Maclaren@gmail.com contrassegnato "Aggiornamento dati personali".
+6.4. Il periodo per il trattamento dei dati personali è illimitato. L'utente può in qualsiasi momento revocare il consenso al trattamento dei dati personali inviando una comunicazione all'Operatore via e-mail all'indirizzo di posta elettronica dell'Operatore San.Maclaren@gmail.com contrassegnato “Revoca del consenso al trattamento dei dati personali”.
+ 
+7. Trasferimento transfrontaliero di dati personali
+7.1. Prima di avviare il trasferimento transfrontaliero di dati personali, l'operatore è obbligato ad assicurarsi che lo Stato estero, nel cui territorio si suppone trasferire dati personali, garantisca una tutela affidabile dei diritti dei soggetti dei dati personali.
+7.2. Il trasferimento transfrontaliero di dati personali sul territorio di Stati esteri che non soddisfano i requisiti di cui sopra può essere effettuato solo se esiste il consenso scritto dell'interessato al trasferimento transfrontaliero dei propri dati personali e/o l'esecuzione di un contratto di cui l'interessato è parte.
+ 
+8. Disposizioni finali
+8.1. L'utente può ricevere eventuali chiarimenti su questioni di interesse in merito al trattamento dei suoi dati personali contattando il Gestore tramite e-mail San.Maclaren@gmail.com.
+8.2. Questo documento rifletterà eventuali modifiche alla politica di trattamento dei dati personali da parte dell'Operatore. La polizza è valida a tempo indeterminato fino a quando non viene sostituita da una nuova versione.
+8.3. La versione corrente della Politica è disponibile gratuitamente su Internet all'indirizzo https? // tools.seo-zona.ru/privacy/. 
+
+FR
+Politique de traitement des données personnelles
+
+
+1. Dispositions générales
+Cette politique de traitement des données personnelles a été élaborée conformément aux exigences de la loi fédérale du 27 juillet 2006. N° 152-ФЗ "Sur les Données Personnelles" et détermine la procédure de traitement des données personnelles et les mesures pour assurer la sécurité des données personnelles prises par Word Games (Word Games) (ci-après dénommé l'Opérateur).
+1.1. L'opérateur fixe comme objectif et condition les plus importants pour la mise en œuvre de ses activités le respect des droits et libertés de l'homme et du citoyen lors du traitement de ses données personnelles, y compris la protection des droits à la vie privée, aux secrets personnels et familiaux.
+1.2. Cette politique de l'Opérateur concernant le traitement des données personnelles (ci-après dénommée la Politique) s'applique à toutes les informations que l'Opérateur peut obtenir sur les utilisateurs du jeu.
+ 
+2. Concepts de base utilisés dans la Politique
+2.1. Traitement automatisé des données personnelles - traitement des données personnelles à l'aide de la technologie informatique ;
+2.2. Blocage des données personnelles - cessation temporaire du traitement des données personnelles (sauf dans les cas où le traitement est nécessaire pour clarifier les données personnelles) ;
+2.3. Site Web - un ensemble de documents graphiques et d'information, ainsi que des programmes informatiques et des bases de données qui assurent leur disponibilité sur Internet
+2.4. Système d'information sur les données personnelles - un ensemble de données personnelles contenues dans des bases de données, et des technologies de l'information et des moyens techniques qui assurent leur traitement ;
+2.5. Dépersonnalisation des données personnelles - actions à la suite desquelles il est impossible de déterminer, sans l'utilisation d'informations supplémentaires, l'appartenance des données personnelles à un utilisateur spécifique ou à un autre sujet de données personnelles ;
+2.6. Traitement des données personnelles - toute action (opération) ou un ensemble d'actions (opérations) effectuées à l'aide d'outils d'automatisation ou sans utiliser de tels outils avec des données personnelles, y compris la collecte, l'enregistrement, la systématisation, l'accumulation, le stockage, la clarification (mise à jour, modification), extraction , utilisation, transfert (distribution, mise à disposition, accès), dépersonnalisation, blocage, suppression, destruction des données personnelles ;
+2.7. Opérateur - un organisme public, un organisme municipal, une personne morale ou une personne physique, indépendamment ou conjointement avec d'autres personnes organisant et (ou) effectuant le traitement des données personnelles, ainsi que déterminant les finalités du traitement des données personnelles, la composition des données personnelles pour être traitées, des actions (opérations) effectuées avec des données personnelles ;
+2.8. Données personnelles - toute information se rapportant directement ou indirectement à un utilisateur spécifique ou identifiable des jeux.
+2.9. L'utilisateur est toute personne utilisant des jeux.
+2.10. Fourniture de données personnelles - actions visant à divulguer des données personnelles à une certaine personne ou à un certain cercle de personnes ;
+2.11. Diffusion de données personnelles - toute action visant à divulguer des données personnelles à un cercle indéfini de personnes (transfert de données personnelles) ou à prendre connaissance des données personnelles d'un nombre illimité de personnes, y compris la divulgation de données personnelles dans les médias, la publication sur les réseaux d'information et de télécommunication ou l'accès à des données personnelles de toute autre manière ;
+2.12. Transfert transfrontalier de données personnelles - le transfert de données personnelles vers le territoire d'un État étranger à l'autorité d'un État étranger, à une personne physique étrangère ou à une personne morale étrangère ;
+2.13. Destruction des données personnelles - toute action à la suite de laquelle les données personnelles sont détruites de manière irrévocable avec l'impossibilité de restaurer davantage le contenu des données personnelles dans le système d'information des données personnelles et (ou) les supports matériels de données personnelles sont détruites.
+ 
+3. L'opérateur peut traiter les données personnelles suivantes de l'utilisateur
+3.1. Nom et prénom;
+3.2. Numéro de téléphone;
+3.3. Adresse e-mail;
+3.4. Le site collecte et traite également des données anonymisées sur les visiteurs (y compris les cookies) à l'aide de services de statistiques Internet (Yandex Metrika, Google Analytics et autres).
+3.5. Les données ci-dessus ci-après dans le texte de la Politique sont unies par le concept général de Données personnelles.
+ 
+4. Finalités du traitement des données personnelles
+4.1. Le but du traitement des données personnelles de l'utilisateur est de fournir à l'utilisateur l'accès aux services, informations et / ou matériaux contenus sur le site Web.
+4.2. L'Opérateur a également le droit d'envoyer à l'Utilisateur des notifications sur les nouveaux produits et services, les offres spéciales et divers événements. L'utilisateur peut toujours refuser de recevoir des messages d'information en envoyant à l'Opérateur un courrier à l'adresse e-mail San.Maclaren@gmail.com portant la mention « Refus des notifications concernant les nouveaux produits et services et les offres spéciales ».
+4.3. Données d'utilisateur anonymisées collectées auprès de en utilisant les services de statistiques Internet, servent à collecter des informations sur les actions des Utilisateurs sur le site, à améliorer la qualité du site et de son contenu.
+ 
+5. Base juridique du traitement des données personnelles
+5.1. L'Opérateur traite les données personnelles de l'Utilisateur uniquement si elles sont renseignées et/ou envoyées par l'Utilisateur de manière indépendante. En envoyant ses données personnelles à l'Opérateur, l'Utilisateur accepte la présente Politique.
+5.2. L'Opérateur traite des données anonymisées sur l'Utilisateur si cela est autorisé dans les paramètres du navigateur de l'Utilisateur (le stockage de cookies et l'utilisation de la technologie JavaScript sont activés).
+ 
+6. La procédure de collecte, de stockage, de transfert et d'autres types de traitement des données personnelles
+La sécurité des données personnelles traitées par l'Opérateur est assurée par la mise en œuvre de mesures juridiques, organisationnelles et techniques nécessaires pour se conformer pleinement aux exigences de la législation en vigueur dans le domaine de la protection des données personnelles.
+6.1. L'opérateur assure la sécurité des données personnelles et prend toutes les mesures possibles pour exclure l'accès aux données personnelles des personnes non autorisées.
+6.2. Les données personnelles de l'Utilisateur ne seront en aucun cas cédées à des tiers, sauf dans les cas liés à l'application de la législation en vigueur.
+6.3. En cas de révélation d'inexactitudes dans les données personnelles, l'Utilisateur peut les mettre à jour de manière indépendante en envoyant une notification à l'Opérateur à l'adresse e-mail de l'Opérateur San.Maclaren@gmail.com portant la mention « Mise à jour des données personnelles ».
+6.4. Le délai de traitement des données personnelles est illimité. L'utilisateur peut à tout moment révoquer son consentement au traitement des données personnelles en envoyant une notification à l'opérateur par e-mail à l'adresse e-mail de l'opérateur San.Maclaren@gmail.com portant la mention « Retrait du consentement au traitement de données personnelles ».
+ 
+7. Transfert transfrontalier de données personnelles
+7.1. Avant de commencer le transfert transfrontalier de données personnelles, l'opérateur est tenu de s'assurer que l'État étranger, sur le territoire duquel il est censé transférer des données personnelles, assure une protection fiable des droits des personnes concernées.
+7.2. Le transfert transfrontalier de données personnelles sur le territoire d'États étrangers qui ne répondent pas aux exigences ci-dessus ne peut être effectué que s'il existe un consentement écrit du sujet des données personnelles au transfert transfrontalier de ses données personnelles et / ou l'exécution d'un accord auquel le sujet des données personnelles est partie.
+ 
+8. Dispositions finales
+8.1. L'utilisateur peut recevoir des éclaircissements sur les questions d'intérêt concernant le traitement de ses données personnelles en contactant l'opérateur par e-mail San.Maclaren@gmail.com.
+8.2. Ce document reflétera toute modification de la politique de traitement des données personnelles par l'Opérateur. La politique est valable indéfiniment jusqu'à ce qu'elle soit remplacée par une nouvelle version.
+8.3. La version actuelle de la politique est disponible gratuitement sur Internet à l'adresse https? // tools.seo-zona.ru/privacy/.
+
+GER
+Richtlinie zur Verarbeitung personenbezogener Daten
+
+
+1. Allgemeine Bestimmungen
+Diese Richtlinie zur Verarbeitung personenbezogener Daten wurde gemäß den Anforderungen des Bundesgesetzes vom 27. Juli 2006 erstellt. Nr. 152-ФЗ "Über personenbezogene Daten" und legt das Verfahren zur Verarbeitung personenbezogener Daten und Maßnahmen zur Gewährleistung der Sicherheit personenbezogener Daten fest, die von Word Games (Word Games) (im Folgenden als Betreiber bezeichnet) erhoben werden.
+1.1. Der Betreiber setzt als wichtigstes Ziel und wichtigste Voraussetzung für die Durchführung seiner Tätigkeiten die Achtung der Menschen- und Bürgerrechte und Freiheiten bei der Verarbeitung seiner personenbezogenen Daten, einschließlich des Schutzes der Persönlichkeitsrechte, des Persönlichkeits- und Familiengeheimnisses.
+1.2. Diese Richtlinie des Betreibers zur Verarbeitung personenbezogener Daten (im Folgenden als Richtlinie bezeichnet) gilt für alle Informationen, die der Betreiber über die Benutzer des Spiels erhalten kann.
+ 
+2. Grundlegende Konzepte, die in der Richtlinie verwendet werden
+2.1. Automatisierte Verarbeitung personenbezogener Daten - Verarbeitung personenbezogener Daten mittels Computertechnologie;
+2.2. Sperrung personenbezogener Daten - vorübergehende Beendigung der Verarbeitung personenbezogener Daten (außer in Fällen, in denen die Verarbeitung zur Klärung personenbezogener Daten erforderlich ist);
+2.3. Website - eine Reihe von Grafik- und Informationsmaterialien sowie Computerprogrammen und Datenbanken, die ihre Verfügbarkeit im Internet sicherstellen
+2.4. Informationssystem für personenbezogene Daten - eine Reihe von personenbezogenen Daten, die in Datenbanken enthalten sind, sowie Informationstechnologien und technische Mittel, die ihre Verarbeitung gewährleisten;
+2.5. Anonymisierung personenbezogener Daten - Maßnahmen, aufgrund derer ohne die Verwendung zusätzlicher Informationen die Zugehörigkeit personenbezogener Daten zu einem bestimmten Benutzer oder einer anderen Person der personenbezogenen Daten nicht festgestellt werden kann;
+2.6. Verarbeitung personenbezogener Daten - jede Handlung (Vorgang) oder eine Reihe von Handlungen (Vorgänge), die unter Verwendung von Automatisierungstools oder ohne Verwendung solcher Tools mit personenbezogenen Daten durchgeführt wird, einschließlich Sammlung, Aufzeichnung, Systematisierung, Sammlung, Speicherung, Klärung (Aktualisierung, Änderung), Extraktion , Nutzung, Weitergabe (Verteilung, Bereitstellung, Zugriff), Anonymisierung, Sperrung, Löschung, Vernichtung personenbezogener Daten;
+2.7. Betreiber - eine staatliche Stelle, kommunale Einrichtung, juristische Person oder Einzelperson, unabhängig oder gemeinsam mit anderen Personen, die die Verarbeitung personenbezogener Daten organisieren und (oder) durchführen sowie die Zwecke der Verarbeitung personenbezogener Daten bestimmen, die Zusammensetzung der personenbezogenen Daten verarbeitet werden, Aktionen (Vorgänge), die mit personenbezogenen Daten durchgeführt werden;
+2.8. Personenbezogene Daten - alle Informationen, die sich direkt oder indirekt auf einen bestimmten oder identifizierbaren Benutzer der Spiele beziehen.
+2.9. Benutzer ist jede Person, die Spiele verwendet.
+2.10. Bereitstellung personenbezogener Daten - Maßnahmen zur Weitergabe personenbezogener Daten an eine bestimmte Person oder einen bestimmten Personenkreis;
+2.11. Weitergabe personenbezogener Daten - alle Handlungen, die darauf abzielen, personenbezogene Daten an einen unbestimmten Personenkreis (Übermittlung personenbezogener Daten) oder Bekanntschaft mit personenbezogenen Daten einer unbegrenzten Anzahl von Personen zu übermitteln, einschließlich der Weitergabe personenbezogener Daten an die Medien, Veröffentlichung auf Informations- und Telekommunikationsnetze oder anderweitige Bereitstellung des Zugangs zu personenbezogenen Daten;
+2.12. Grenzüberschreitende Übermittlung personenbezogener Daten – Übermittlung personenbezogener Daten in das Hoheitsgebiet eines fremden Staates an eine Behörde eines fremden Staates, an eine ausländische natürliche oder ausländische juristische Person;
+2.13. Vernichtung personenbezogener Daten - alle Handlungen, durch die personenbezogene Daten unwiderruflich vernichtet werden, ohne dass der Inhalt der personenbezogenen Daten im Informationssystem der personenbezogenen Daten wiederhergestellt werden kann, und (oder) materielle Träger personenbezogener Daten werden vernichtet.
+ 
+3. Der Betreiber kann die folgenden personenbezogenen Daten des Nutzers verarbeiten
+3.1. Vollständiger Name;
+3.2. Telefonnummer;
+3.3. E-Mail-Addresse;
+3.4. Die Website sammelt und verarbeitet auch anonymisierte Daten über Besucher (einschließlich Cookies) unter Verwendung von Internet-Statistikdiensten (Yandex Metrika, Google Analytics und andere).
+3.5. Die oben genannten Daten im Folgenden im Text der Richtlinie werden durch das allgemeine Konzept der personenbezogenen Daten vereint.
+ 
+4. Zwecke der Verarbeitung personenbezogener Daten
+4.1. Der Zweck der Verarbeitung der personenbezogenen Daten des Benutzers besteht darin, dem Benutzer Zugang zu den auf der Website enthaltenen Diensten, Informationen und / oder Materialien zu ermöglichen.
+4.2. Der Betreiber hat auch das Recht, dem Benutzer Benachrichtigungen über neue Produkte und Dienstleistungen, Sonderangebote und verschiedene Veranstaltungen zu senden. Der Benutzer kann den Erhalt von Informationsnachrichten jederzeit ablehnen, indem er dem Betreiber einen Brief an die E-Mail-Adresse San.Maclaren@gmail.com mit der Aufschrift "Ablehnung von Benachrichtigungen über neue Produkte und Dienstleistungen und Sonderangebote" sendet.
+4.3. Anonymisierte Benutzerdaten gesammelt von die Nutzung von Internet-Statistikdiensten, um Informationen über die Aktionen der Benutzer auf der Website zu sammeln, die Qualität der Website und ihres Inhalts zu verbessern.
+ 
+5. Rechtsgrundlage für die Verarbeitung personenbezogener Daten
+5.1. Der Betreiber verarbeitet die personenbezogenen Daten des Benutzers nur, wenn sie vom Benutzer selbstständig ausgefüllt und / oder gesendet werden. Durch die Übermittlung seiner personenbezogenen Daten an den Betreiber stimmt der Benutzer dieser Richtlinie zu.
+5.2. Der Betreiber verarbeitet anonymisierte Daten über den Benutzer, wenn dies in den Einstellungen des Browsers des Benutzers zulässig ist (das Speichern von Cookies und die Verwendung von JavaScript-Technologie sind aktiviert).
+ 
+6. Verfahren zur Erhebung, Speicherung, Übermittlung und sonstigen Verarbeitung personenbezogener Daten
+Die Sicherheit der vom Betreiber verarbeiteten personenbezogenen Daten wird durch die Umsetzung rechtlicher, organisatorischer und technischer Maßnahmen gewährleistet, die erforderlich sind, um die Anforderungen der geltenden Gesetzgebung zum Schutz personenbezogener Daten vollständig zu erfüllen.
+6.1. Der Betreiber gewährleistet die Sicherheit personenbezogener Daten und ergreift alle möglichen Maßnahmen, um den Zugriff auf personenbezogene Daten von Unbefugten auszuschließen.
+6.2. Die personenbezogenen Daten des Benutzers werden unter keinen Umständen an Dritte weitergegeben, außer in Fällen im Zusammenhang mit der Umsetzung der geltenden Rechtsvorschriften.
+6.3. Im Falle von Unrichtigkeiten in den personenbezogenen Daten kann der Benutzer diese eigenständig aktualisieren, indem er dem Betreiber eine Mitteilung an die E-Mail-Adresse des Betreibers San.Maclaren@gmail.com mit dem Vermerk „Aktualisierung personenbezogener Daten“ sendet.
+6.4. Der Zeitraum für die Verarbeitung personenbezogener Daten ist unbegrenzt. Der Nutzer kann seine Einwilligung zur Verarbeitung der personenbezogenen Daten jederzeit widerrufen, indem er eine Mitteilung an den Betreiber per E-Mail an die E-Mail-Adresse des Betreibers San.Maclaren@gmail.com mit dem Vermerk „Widerruf der Einwilligung zur Verarbeitung“ sendet personenbezogener Daten“.
+ 
+7. Grenzüberschreitende Übermittlung personenbezogener Daten
+7.1. Vor Beginn der grenzüberschreitenden Übermittlung personenbezogener Daten ist der Betreiber verpflichtet, sicherzustellen, dass der ausländische Staat, in dessen Hoheitsgebiet er personenbezogene Daten übermitteln soll, die Rechte der Betroffenen personenbezogener Daten zuverlässig schützt.
+7.2. Eine grenzüberschreitende Übermittlung personenbezogener Daten im Hoheitsgebiet ausländischer Staaten, die die oben genannten Voraussetzungen nicht erfüllen, kann nur durchgeführt werden, wenn eine schriftliche Zustimmung des Betroffenen der personenbezogenen Daten zur grenzüberschreitenden Übermittlung seiner personenbezogenen Daten vorliegt und/oder die Ausführung einer Vereinbarung, deren Vertragspartei der Gegenstand der personenbezogenen Daten ist.
+ 
+8. Schlussbestimmungen
+8.1. Der Benutzer kann Erläuterungen zu Interessensfragen bezüglich der Verarbeitung seiner personenbezogenen Daten erhalten, indem er sich per E-Mail an den Betreiber an San.Maclaren@gmail.com wendet.
+8.2. Dieses Dokument spiegelt alle Änderungen der Richtlinie zur Verarbeitung personenbezogener Daten durch den Betreiber wider. Die Richtlinie ist unbegrenzt gültig, bis sie durch eine neue Version ersetzt wird.
+8.3. Die aktuelle Version der Richtlinie ist im Internet unter https? // tools.seo-zona.ru/privacy/ frei verfügbar. 
+
+ESP
+Política de tratamiento de datos personales
+
+
+1. Disposiciones generales
+Esta política de tratamiento de datos personales ha sido elaborada de acuerdo con los requisitos de la Ley Federal de 27 de julio de 2006. No. 152-ФЗ "Sobre datos personales" y determina el procedimiento para procesar datos personales y las medidas para garantizar la seguridad de los datos personales tomados por Word Games (Word Games) (en adelante, el Operador).
+1.1. El operador establece como su objetivo y condición más importante para la implementación de sus actividades la observancia de los derechos y libertades humanos y civiles en el procesamiento de sus datos personales, incluida la protección de los derechos a la privacidad, secretos personales y familiares.
+1.2. La política de este Operador con respecto al procesamiento de datos personales (en lo sucesivo, la Política) se aplica a toda la información que el Operador puede obtener sobre los usuarios del juego.
+ 
+2. Conceptos básicos utilizados en la Política
+2.1. Procesamiento automatizado de datos personales: procesamiento de datos personales utilizando tecnología informática;
+2.2. Bloqueo de datos personales: terminación temporal del procesamiento de datos personales (excepto en los casos en que el procesamiento es necesario para aclarar los datos personales);
+2.3. Sitio web: conjunto de materiales gráficos e informativos, así como programas informáticos y bases de datos que garantizan su disponibilidad en Internet.
+2.4. Sistema de información de datos personales: conjunto de datos personales contenidos en bases de datos, tecnologías de la información y medios técnicos que garantizan su procesamiento;
+2.5. Despersonalización de datos personales: acciones como resultado de las cuales es imposible determinar, sin el uso de información adicional, la pertenencia de datos personales a un Usuario específico u otro sujeto de datos personales;
+2.6. Procesamiento de datos personales: cualquier acción (operación) o un conjunto de acciones (operaciones) realizadas con herramientas de automatización o sin usar dichas herramientas con datos personales, incluida la recopilación, registro, sistematización, acumulación, almacenamiento, aclaración (actualización, cambio), extracción. , uso, transferencia (distribución, provisión, acceso), despersonalización, bloqueo, eliminación, destrucción de datos personales;
+2.7. Operador: un organismo estatal, municipal, entidad legal o individuo, de forma independiente o conjunta con otras personas que organizan y (o) llevan a cabo el procesamiento de datos personales, así como para determinar los propósitos del procesamiento de datos personales, la composición de los datos personales para ser procesados, acciones (operaciones) realizadas con datos personales;
+2.8. Datos personales: cualquier información relacionada directa o indirectamente con un Usuario específico o identificable de los juegos.
+2.9. El usuario es cualquier persona que utilice juegos.
+2.10. Suministro de datos personales: acciones destinadas a divulgar datos personales a una determinada persona o un determinado círculo de personas;
+2.11. Difusión de datos personales: cualquier acción destinada a divulgar datos personales a un círculo indefinido de personas (transferencia de datos personales) o al conocimiento de los datos personales de un número ilimitado de personas, incluida la divulgación de datos personales en los medios, publicación en redes de información y telecomunicaciones o acceso a datos personales de cualquier otra forma;
+2.12. Transferencia transfronteriza de datos personales: la transferencia de datos personales al territorio de un estado extranjero a la autoridad de un estado extranjero, a una persona física o jurídica extranjera;
+2.13. Destrucción de datos personales: cualquier acción como resultado de la cual los datos personales se destruyan irrevocablemente con la imposibilidad de restaurar aún más el contenido de los datos personales en el sistema de información de datos personales y (o) se destruyen los portadores materiales de datos personales.
+ 
+3. El operador puede procesar los siguientes datos personales del Usuario
+3.1. Nombre completo;
+3.2. Número de teléfono;
+3.3. Dirección de correo electrónico;
+3.4. El sitio también recopila y procesa datos anónimos sobre los visitantes (incluidas las cookies) que utilizan los servicios de estadísticas de Internet (Yandex Metrika, Google Analytics y otros).
+3.5. Los datos anteriores en lo sucesivo en el texto de la Política están unidos por el concepto general de Datos Personales.
+ 
+4. Finalidades del tratamiento de datos personales
+4.1. El propósito del procesamiento de los datos personales del Usuario es brindarle acceso a los servicios, información y / o materiales contenidos en el sitio web.
+4.2. El Operador también tiene derecho a enviar notificaciones al Usuario sobre nuevos productos y servicios, ofertas especiales y diversos eventos. El usuario siempre puede negarse a recibir mensajes informativos enviando al Operador una carta a la dirección de correo electrónico San.Maclaren@gmail.com marcada "Rechazo de notificaciones sobre nuevos productos y servicios y ofertas especiales".
+4.3. Datos de usuario anonimizados recopilados de utilizando los servicios de estadísticas de Internet, sirven para recopilar información sobre las acciones de los Usuarios en el sitio, mejorar la calidad del sitio y su contenido.
+ 
+5. Base legal para el procesamiento de datos personales
+5.1. El Operador procesa los datos personales del Usuario solo si son completados y / o enviados por el Usuario de forma independiente. Al enviar sus datos personales al Operador, el Usuario acepta esta Política.
+5.2. El Operador procesa datos anonimizados sobre el Usuario si está permitido en la configuración del navegador del Usuario (el almacenamiento de cookies y el uso de tecnología JavaScript están habilitados).
+ 
+6. El procedimiento de recopilación, almacenamiento, transferencia y otros tipos de procesamiento de datos personales.
+La seguridad de los datos personales tratados por el Operador está garantizada mediante la implementación de las medidas legales, organizativas y técnicas necesarias para cumplir íntegramente con los requisitos de la legislación vigente en materia de protección de datos personales.
+6.1. El operador garantiza la seguridad de los datos personales y toma todas las medidas posibles para excluir el acceso a los datos personales de personas no autorizadas.
+6.2. Los datos personales del Usuario en ningún caso serán cedidos a terceros, salvo en los casos relacionados con la aplicación de la legislación vigente.
+6.3. En caso de revelar inexactitudes en los datos personales, el Usuario puede actualizarlos de forma independiente enviando una notificación al Operador a la dirección de correo electrónico del Operador San.Maclaren@gmail.com marcada como "Actualización de datos personales".
+6.4. El período de procesamiento de datos personales es ilimitado. El usuario puede en cualquier momento revocar su consentimiento para el procesamiento de datos personales enviando una notificación al Operador por correo electrónico a la dirección de correo electrónico del Operador San.Maclaren@gmail.com marcado “Retiro del consentimiento al procesamiento de datos personales ”.
+ 
+7. Transferencia transfronteriza de datos personales
+7.1. Antes de comenzar la transferencia transfronteriza de datos personales, el operador está obligado a asegurarse de que el estado extranjero, a cuyo territorio se supone que debe transferir datos personales, brinde una protección confiable de los derechos de los sujetos de datos personales.
+7.2. La transferencia transfronteriza de datos personales en el territorio de estados extranjeros que no cumplan con los requisitos anteriores se puede llevar a cabo solo si existe un consentimiento por escrito del sujeto de los datos personales para la transferencia transfronteriza de sus datos personales y / o la ejecución de un acuerdo en el que el sujeto de los datos personales es parte.
+ 
+8. Disposiciones finales
+8.1. El usuario puede recibir cualquier aclaración sobre cuestiones de interés relativas al tratamiento de sus datos personales poniéndose en contacto con el Operador a través del correo electrónico San.Maclaren@gmail.com.
+8.2. Este documento reflejará cualquier cambio en la política de procesamiento de datos personales por parte del Operador. La política es válida indefinidamente hasta que sea reemplazada por una nueva versión.
+8.3. La versión actual de la Política está disponible gratuitamente en Internet en https? // tools.seo-zona.ru/privacy/. 
+
+POR
+Política de processamento de dados pessoais
+
+
+1. Disposições Gerais
+Esta política de processamento de dados pessoais foi elaborada de acordo com os requisitos da Lei Federal de 27 de julho de 2006. Nº 152-ФЗ “Sobre Dados Pessoais” e determina o procedimento para o tratamento de dados pessoais e as medidas para garantir a segurança dos dados pessoais retirados por Word Games (Word Games) (doravante denominado Operador).
+1.1. A operadora estabelece como objetivo e condição mais importantes para a implementação de suas atividades o respeito pelos direitos humanos e civis e as liberdades no tratamento de seus dados pessoais, incluindo a proteção dos direitos à privacidade e segredos pessoais e familiares.
+1.2. Esta política da Operadora em relação ao processamento de dados pessoais (doravante denominada Política) aplica-se a todas as informações que a Operadora possa obter sobre os usuários do jogo.
+ 
+2. Conceitos básicos usados ​​na Política
+2.1. Tratamento automatizado de dados pessoais - processamento de dados pessoais utilizando tecnologia informática;
+2.2. Bloqueio de dados pessoais - cessação temporária do tratamento de dados pessoais (exceto nos casos em que o tratamento é necessário para esclarecimento de dados pessoais);
+2.3. Site - conjunto de materiais gráficos e informativos, além de programas de computador e bancos de dados que garantem sua disponibilidade na Internet
+2.4. Sistema de informação de dados pessoais - conjunto de dados pessoais contidos em bases de dados, tecnologias de informação e meios técnicos que garantem o seu tratamento;
+2,5. Despersonalização de dados pessoais - ações pelas quais é impossível determinar, sem o uso de informações adicionais, a pertença de dados pessoais a um determinado Usuário ou outro sujeito de dados pessoais;
+2.6. Processamento de dados pessoais - qualquer ação (operação) ou um conjunto de ações (operações) realizadas usando ferramentas de automação ou sem o uso de tais ferramentas com dados pessoais, incluindo coleta, registro, sistematização, acumulação, armazenamento, esclarecimento (atualização, alteração), extração , uso, transferência (distribuição, fornecimento, acesso), despersonalização, bloqueio, exclusão, destruição de dados pessoais;
+2.7. Operador - um órgão estadual, municipal, pessoa jurídica ou pessoa física, de forma independente ou conjunta com outras pessoas que organizam e (ou) realizam o tratamento de dados pessoais, bem como determinam as finalidades do tratamento de dados pessoais, a composição dos dados pessoais para ser processado, ações (operações) realizadas com dados pessoais;
+2.8. Dados pessoais - qualquer informação relacionada direta ou indiretamente a um usuário específico ou identificável dos jogos.
+2.9. Usuário é qualquer pessoa que usa jogos.
+2,10. Fornecimento de dados pessoais - ações destinadas a divulgar dados pessoais a uma determinada pessoa ou a um determinado círculo de pessoas;
+2,11. Divulgação de dados pessoais - quaisquer ações destinadas a divulgar dados pessoais a um círculo indefinido de pessoas (transferência de dados pessoais) ou ao conhecimento dos dados pessoais de um número ilimitado de pessoas, incluindo a divulgação de dados pessoais nos meios de comunicação, publicação em redes de informação e telecomunicações ou fornecimento de acesso a dados pessoais de qualquer outra forma;
+2,12 Transferência transfronteiriça de dados pessoais - a transferência de dados pessoais para o território de um estado estrangeiro para a autoridade de um estado estrangeiro, para uma pessoa física estrangeira ou pessoa jurídica estrangeira;
+2,13. Destruição de dados pessoais - quaisquer ações em que os dados pessoais sejam destruídos de forma irrevogável com a impossibilidade de restaurar posteriormente o conteúdo dos dados pessoais no sistema de informação de dados pessoais e (ou) os suportes materiais dos dados pessoais sejam destruídos.
+ 
+3. O operador pode processar os seguintes dados pessoais do usuário
+3.1. Nome completo;
+3.2. Número de telefone;
+3.3. Endereço de e-mail;
+3.4. O site também coleta e processa dados anônimos sobre visitantes (incluindo cookies) usando serviços de estatísticas da Internet (Yandex Metrika, Google Analytics e outros).
+3,5. Os dados acima mencionados a seguir no texto da Política estão unidos pelo conceito geral de Dados Pessoais.
+ 
+4. Objetivos do processamento de dados pessoais
+4.1. O objetivo do processamento dos dados pessoais do Usuário é fornecer ao Usuário acesso aos serviços, informações e / ou materiais contidos no site.
+4.2. A Operadora também reserva-se o direito de enviar ao Usuário notificações sobre novos produtos e serviços, ofertas especiais e eventos diversos. O utilizador pode sempre recusar o recebimento de mensagens informativas, enviando à Operadora uma carta para o endereço de correio eletrónico San.Maclaren@gmail.com marcada como "Recusa de notificações sobre novos produtos e serviços e ofertas especiais".
+4.3. Dados anônimos do usuário coletados de utilizando os serviços de estatísticas da Internet, servem para recolher informação sobre as acções dos Utilizadores no site, melhorar a qualidade do site e do seu conteúdo.
+ 
+5. Base jurídica para o tratamento de dados pessoais
+5.1. O Operador processa os dados pessoais do Usuário somente se forem preenchidos e / ou enviados pelo Usuário de forma independente. Ao enviar seus dados pessoais para a Operadora, o Usuário concorda com esta Política.
+5,2 O Operador processa dados anônimos sobre o Usuário se permitido nas configurações do navegador do Usuário (o armazenamento de cookies e o uso da tecnologia JavaScript estão habilitados).
+ 
+6. O procedimento de coleta, armazenamento, transferência e outros tipos de processamento de dados pessoais
+A segurança dos dados pessoais tratados pelo Operador é garantida através da implementação de medidas legais, organizacionais e técnicas necessárias ao pleno cumprimento dos requisitos da legislação em vigor no domínio da protecção de dados pessoais.
+6.1. O operador garante a segurança dos dados pessoais e toma todas as medidas possíveis para excluir o acesso aos dados pessoais de pessoas não autorizadas.
+6,2 Os dados pessoais do Utilizador nunca serão, em hipótese alguma, cedidos a terceiros, salvo nos casos relacionados com a aplicação da legislação em vigor.
+6.3. No caso de revelar imprecisões nos dados pessoais, o Usuário pode atualizá-los de forma independente, enviando uma notificação à Operadora para o endereço de e-mail da Operadora San.Maclaren@gmail.com marcado "Atualizando dados pessoais".
+6,4 O prazo para processamento de dados pessoais é ilimitado. O utilizador pode, a qualquer momento, revogar o seu consentimento para o tratamento de dados pessoais, enviando uma notificação ao Operador por e-mail para o endereço de e-mail do Operador San.Maclaren@gmail.com marcado “Retirada de consentimento para o processamento de dados pessoais ”.
+ 
+7. Transferência transfronteiriça de dados pessoais
+7.1. Antes de iniciar a transferência transfronteiriça de dados pessoais, o operador é obrigado a certificar-se de que o Estado estrangeiro, para cujo território deve transferir dados pessoais, oferece proteção confiável dos direitos dos titulares dos dados pessoais.
+7,2 A transferência transfronteiriça de dados pessoais no território de estados estrangeiros que não cumpram os requisitos acima pode ser realizada apenas se houver um consentimento por escrito do titular dos dados pessoais para a transferência transfronteiriça de seus dados pessoais e / ou a celebração de um acordo do qual o sujeito dos dados pessoais seja parte.
+ 
+8. Disposições finais
+8,1 O utilizador pode receber quaisquer esclarecimentos sobre assuntos de interesse relativos ao tratamento dos seus dados pessoais, contactando o Operador através do e-mail San.Maclaren@gmail.com.
+8,2. Este documento refletirá quaisquer alterações na política de processamento de dados pessoais por parte da Operadora. A política é válida por tempo indeterminado até que seja substituída por uma nova versão.
+8,3. A versão atual da Política está disponível gratuitamente na Internet em https? // tools.seo-zona.ru/privacy/. 
