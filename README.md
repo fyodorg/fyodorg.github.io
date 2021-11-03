@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages, Evgeniy!
 
-Its youre picture- [Image](https://fyodorg.github.io/DSC_0053.jpg)
+Its youre picture- ![Image](https://fyodorg.github.io/DSC_0053.jpg)
 
 You can use the [editor on GitHub](https://github.com/fyodorg/fyodorg.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
